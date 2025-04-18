@@ -33,3 +33,7 @@ o	The model's performance was assessed using several evaluation metrics:
 	Precision: The proportion of true positives among the predicted positives.
 	Recall: The proportion of true positives among all actual positives.
 o	Additionally, a confusion matrix was generated to visualize the model's performance, showing the number of true positives, true negatives, false positives, and false negatives.
+
+OUTPUT -
+![Screenshot 2025-04-18 145801](https://github.com/user-attachments/assets/afd99b71-cf28-4fd1-b526-4da4a418448b)
+
